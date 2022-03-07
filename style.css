@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+body {
+    font-family: sans-serif;
+    background-color: #1d1c1c;
+}
+
+h1 {
+    color: #fffffe;
+}
+ 
+.b-btn {
+    color: #301879;
+}
+
+
+
